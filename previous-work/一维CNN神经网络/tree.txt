@@ -1,0 +1,28 @@
+卷 新加卷 的文件夹 PATH 列表
+卷序列号为 1E76-AAD9
+G:.
+│  CNN.model
+│  DataSet.py
+│  main.py
+│  NET.py
+│  test_data.csv
+│  train_data.csv
+│  tree.txt
+│  测试.py
+│  
+├─.idea
+│  │  .gitignore
+│  │  .name
+│  │  misc.xml
+│  │  modules.xml
+│  │  other.xml
+│  │  workspace.xml
+│  │  全新CNN神经网络.iml
+│  │  
+│  └─inspectionProfiles
+│          profiles_settings.xml
+│          
+└─__pycache__
+        DataSet.cpython-37.pyc
+        NET.cpython-37.pyc
+        

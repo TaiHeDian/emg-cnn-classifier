@@ -1,0 +1,2 @@
+previous-work/一维CNN神经网络/test.csv filter=lfs diff=lfs merge=lfs -text
+previous-work/一维CNN神经网络/train.csv filter=lfs diff=lfs merge=lfs -text
